@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "League of Legends",
+        "caminho": "C:...",
+        "icone": "lol.jpg",
+        "fundo": "lol_big.jpg"
+    },
+    {
+        "nome": "Genshin Impact",
+        "caminho": "C:...",
+        "icone": "genshin_impact.jpg",
+        "fundo": "genshin_big.jpg"
+    },
+    {
+        "nome": "Valorant",
+        "caminho": "C:...",
+        "icone": "Valorant.jpg",
+        "fundo": "Valorant_big.jpg"
+    }
+]
